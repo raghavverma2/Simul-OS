@@ -3,9 +3,9 @@ An simulation of an operating system that manages multiple disks, printers, and 
 
 Input is taken from /inputs from files named 'USER' followed by a number, indicating a user. The commands are issued in the format
 
-.save X
-.end
-.print X
+.save X  
+.end  
+.print X  
 
 where anything between a .save and .end is part of file X. Printing is done by writing to /outputs.
 
