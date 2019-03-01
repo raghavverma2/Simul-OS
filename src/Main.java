@@ -283,7 +283,7 @@ public class Main extends Application
 
 	@Override
     public void start(Stage primaryStage) {
-    	primaryStage.setTitle("141 OS");
+    	primaryStage.setTitle("Simul-OS");
 
         GridPane layout = new GridPane();
         ColumnConstraints col1 = new ColumnConstraints();
