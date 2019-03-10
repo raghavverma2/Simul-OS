@@ -10,7 +10,7 @@ Input is taken from /inputs from files named 'USER' followed by a number, indica
 where anything between a .save and .end is part of file X. Printing is done by writing to /outputs.
 
 # Prerequisites
-Java 8.0
+Java 8.0, JavaFX
 
 # Usage
 To compile and run the program, navigate to the folder containing Makefile, and try  
